@@ -8,7 +8,7 @@ Hi, I'm Monisha N a  MEAN Stack Developer 🚀 from India.
 
 - 👨🏽‍💻 I’m currently developing on ecommerce website given name as myCartZone;
 - 🌱 I’m currently updating knowledge about MEAN Stack; 
-- 🌱 Started learn React
+- 🌱 Started learn React and React Native;
 - 🌱 Interesting to learn new technologies;
 
 
