@@ -14,6 +14,10 @@ Hi, I'm Monisha N a  MEAN Stack Web Developer 🚀 from India. I have a passion 
 - 🌱 Interesting to learn new technologies;
 - 🌱 Started exploring microservices;
 
-How to reach me: [Email](https://gomonisha@gmail.com)
+How to reach me:
+[Email](https://gomonisha@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/monisha-12011993/)
+[Twitter](https://twitter.com/Nisha57551008)
+             
 
 Every day learn new and explore more.
