@@ -1,4 +1,4 @@
-### Hey Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 Hi, I'm Monisha N a  MEAN Stack Web Developer 🚀 from India. I have a passion for web developerment and also interest to create web applications. 
 Interested to learn new technologies. 
