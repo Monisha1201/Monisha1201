@@ -1,6 +1,6 @@
 ### Hey Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-Hi, I'm Monisha N a  MEAN Stack Web Developer 🚀 from India. I have a passion for web developerment and also interest to create web applications. 
+Hi, I'm Monisha N a  MEAN Stack Developer 🚀 from India. I have a passion for web developerment and also interest to create web applications. 
 Interested to learn new technologies. 
 
  <a href="https://www.linkedin.com/in/monisha-12011993/"><img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/></a>
